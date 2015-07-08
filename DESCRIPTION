@@ -6,7 +6,7 @@ Date: 2015-07-08
 Author: Long Qu 
 Maintainer: Long Qu <long.qu@wright.edu>
 Depends: R (>= 2.12)
-Imports: Matrix , Iso(>= 0.0-5), splines, fda, stats, graphics
+Imports: Matrix , Iso(>= 0.0-5), splines, fda, stats, graphics, methods
 Suggests: multtest, qvalue, pi0
 Enhances: stats, graphics
 Description: This package implements methods for hierarchical semiparametric regression models for test statistics. Specifically, test statistics given the null/alternative hypotheses are modeled parametrically, whereas the unobservable status of null/alternative hypotheses are modeled using nonparametric additive logistic regression over covariates. 
