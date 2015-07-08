@@ -1,12 +1,12 @@
 Package: hisemi
 Type: Package
 Title: Hierarchical Semiparametric Regression of Test Statistics
-Version: 1.0-319
-Date: 2013-08-30
+Version: 1.1-0
+Date: 2015-07-08
 Author: Long Qu 
 Maintainer: Long Qu <long.qu@wright.edu>
 Depends: R (>= 2.12)
-Imports: Matrix , Iso(>= 0.0-5), splines, fda
+Imports: Matrix , Iso(>= 0.0-5), splines, fda, stats, graphics
 Suggests: multtest, qvalue, pi0
 Enhances: stats, graphics
 Description: This package implements methods for hierarchical semiparametric regression models for test statistics. Specifically, test statistics given the null/alternative hypotheses are modeled parametrically, whereas the unobservable status of null/alternative hypotheses are modeled using nonparametric additive logistic regression over covariates. 
