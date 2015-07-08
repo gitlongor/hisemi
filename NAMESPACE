@@ -3,9 +3,9 @@ import(Matrix)
 importFrom(Iso, pava, ufit)
 importFrom(splines, bs, splineDesign)
 importFrom(fda, create.bspline.basis, bsplinepen, int2Lfd, create.monomial.basis, monomialpen, bsplineS, ppBspline, inprod)
-importFrom(stats, fitted, fitted.values, confint, logLik, resid, residuals, vcov, coef, coefficients, make.link, , "dt", "integrate", "lm", "median", "nlminb", "nls", "optim", "optimize", "poly", "predict", "qt", "quantile", "var")
-importFrom(graphics, plot, , "abline", "axis", "hist", "lines", "mtext", "par", "points")
-importFrom("methods", "as")
+importFrom(stats, fitted, fitted.values, confint, logLik, resid, residuals, vcov, coef, coefficients, make.link, dt, integrate, lm, median, nlminb, nls, optim, optimize, poly, predict, qt, quantile, var)
+importFrom(graphics, plot, abline, axis, hist, lines, mtext, par, points)
+importFrom(methods, as)
 
 
 export(

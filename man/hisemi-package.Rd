@@ -12,8 +12,8 @@ The package includes functions for fitting hierarchical semiparametric regressio
 \tabular{ll}{
 Package: \tab hisemi\cr
 Type: \tab Package\cr
-Version: \tab 1.0-319\cr
-Date: \tab 2013-08-30\cr
+Version: \tab 1.1-0\cr
+Date: \tab 2015-07-08\cr
 License: \tab GPL version 2 or newer\cr
 LazyLoad: \tab yes\cr
 }
