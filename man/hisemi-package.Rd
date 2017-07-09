@@ -62,7 +62,7 @@ Pi.i=1/(1+exp(f(x)))
 Z.i=rbinom(G,1,1-Pi.i)
 t0.i=rt(G,df)
 ncp.i=rnorm(G,0,sdncp)
-t1.i=sapply(ncp.i, rt, n=1,df=df)
+t1.i=rt(G,df, ncp.i)
 t.i=ifelse(Z.i==0,t0.i,t1.i)
 
 ## fit model
