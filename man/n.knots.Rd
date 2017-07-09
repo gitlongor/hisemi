@@ -28,7 +28,7 @@ Ruppert, D. (2002). Selecting the number of knots for penalized splines. Journal
 Qu, L., Nettleton, D., and Dekkers J. C. M. (2012) A hierarchical semiparametric model for incorporating inter-gene information for analysis of genomic data. Biometrics, 68(4):1168-1177.
 
 }
-\author{ Long Qu \email{long.qu@wright.edu}
+\author{ Long Qu \email{rtistician@gmail.com}
 }
 %\note{ 
 %}

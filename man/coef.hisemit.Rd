@@ -27,7 +27,7 @@
         A numeric vector of estimated parameters
 }
 \references{ Long Qu, Dan Nettleton, Jack Dekkers (2012) A hierarchical semiparametric model for incorporating inter-gene relationship information for analysis of genomic data. Biometrics, 68(4):1168-1177  }
-\author{ Long Qu \email{long.qu@wright.edu} }
+\author{ Long Qu \email{rtistician@gmail.com} }
 %\note{ 
 %}
 \seealso{ \code{\link{plot.hisemit}}, \code{\link{fitted.hisemit}}, \code{\link{coef.hisemit}}, \code{\link{vcov.hisemit}}, \code{\link{residuals.hisemit}}, \code{\link{logLik.hisemit}}, \code{\link{confint.hisemit}}, \code{\link{print.hisemit}},

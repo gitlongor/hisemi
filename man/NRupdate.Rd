@@ -36,7 +36,7 @@ NRupdate(f, starts, gradient, hessian, ..., ridge0 = 1e-06,
     \item{\code{'hessian'}}{ The final Hessian matrix, only available if \code{return.hessian=TRUE}. }
 }
 \references{ Long Qu, Dan Nettleton, Jack Dekkers (2012) A hierarchical semiparametric model for incorporating inter-gene relationship information for analysis of genomic data. Biometrics, 68(4):1168-1177}
-\author{ Long Qu \email{long.qu@wright.edu} }
+\author{ Long Qu \email{rtistician@gmail.com} }
 %\note{ 
 %}
 \seealso{ \code{\link{penLik.EMNewton}}, \code{\link{EMupdate}} }

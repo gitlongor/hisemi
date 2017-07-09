@@ -21,7 +21,7 @@ The function treats each matrix as an element and put the element along the diag
 }
 %\references{ 
 %}
-\author{ Long Qu \email{long.qu@wright.edu}
+\author{ Long Qu \email{rtistician@gmail.com}
 }
 %\note{ 
 %}
